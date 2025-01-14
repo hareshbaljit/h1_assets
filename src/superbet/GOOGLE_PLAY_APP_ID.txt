@@ -1,2 +1,3 @@
 ro.superbet.sport
 ro.superbet.games
+superbet.gy
